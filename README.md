@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kashyap-shah28
-- 👀 I’m interested in Embedded System Designing
-- 🌱 I’m currently learning Robotics 
-- 💞️ I’m looking to collaborate on building interesting projects
+- 👀 I’m interested in Embedded System Development
+- 💻 I’m currently learning VLSI Design and exploring related topics 
+- 💞️ I’m looking to collaborate on building interesting projects and connect
   
 
 <!---
